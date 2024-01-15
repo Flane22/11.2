@@ -1,3 +1,8 @@
 def text_upper(text):
-    ''' принимает на вход строку и возвращает ее со всеми заглавными буквами '''
+    """ test """
     return text.upper()
+
+
+def text(text):
+    """ test """
+    return text.title()
